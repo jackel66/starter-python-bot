@@ -1,4 +1,4 @@
-name: Beepboop Starterbot
+name: LunchBox
 description: A simple Python bot sample for Beep Boop
 avatar: resources/avatar.png
 background: resources/background.png
@@ -8,7 +8,7 @@ config:
     info: See https://docs.python.org/2/library/logging.html#levels
     default: DEBUG
   - name: SECRET
-    friendly_name: Lunchbox
+    friendly_name: shhhh
     info: This is an secret option
     type: secret
     default: not secret though
